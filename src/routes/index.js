@@ -6,4 +6,4 @@ const routes = Router();
 
 routes.use("/users", usersRoutes);
 
-module.exports = routes; 
+module.exports = routes;
